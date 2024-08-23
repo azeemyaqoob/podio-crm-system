@@ -1,0 +1,3 @@
+# Podio Crm Systems
+I handled the entire front-end development for the Podio CRM System, a comprehensive real estate CRM platform. Using React, I implemented an intuitive and responsive user interface that allows for seamless lead tracking, customizable workflows, and payment integration with Stripe. Additionally, I developed a user-friendly interface for the affiliate program module and ensured smooth integration with third-party real estate tools. My front-end work supports a scalable and efficient system, enhancing the user experience powered by the Laravel-based backend.
+![podio_crm](https://github.com/user-attachments/assets/a8c8e10a-f40e-4afc-afa1-87407018cb39)
